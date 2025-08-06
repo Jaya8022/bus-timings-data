@@ -777,7 +777,6 @@
     "lonetree": "Lonetree",
     "puthukkada": "Puthukkada",
     "kattadikavala": "Kattadikavala",
-    "valacode": "Valacode",
     "mattuthavalam": "Mattuthavalam",
     "mathaippara": "Mathaippara",
     "kothapara": "Kothapara",
@@ -896,5 +895,4 @@
     { "value": "evening", "text": "Evening (5 PM - 9 PM)" },
     { "value": "night", "text": "Night (9 PM - 6 AM)" }
   ]
-}
 }
