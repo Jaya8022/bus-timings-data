@@ -856,5 +856,45 @@
     "viachembakappara": "Via Chembakappara",
     "limitedstop": "Limited Stop",
     "ordinary": "Ordinary"
-  }
+  },
+  "destinationsWithRouteFilters": [
+    "Adimali",
+    "Changanassery",
+    "Chemmannar",
+    "Cheruthoni",
+    "Cumbummettu",
+    "Kallarkutty",
+    "Kumily",
+    "Munnar",
+    "Murickassery",
+    "Nedumkandam",
+    "Rajakkad",
+    "Thopramkudy",
+    "Vagamon"
+  ],
+  "popularDestinations": [
+    "Vyttila Hub",
+    "Kottayam",
+    "Changanassery",
+    "Kumily",
+    "Adimali",
+    "Nedumkandam",
+    "Thodupuzha",
+    "Munnar"
+  ],
+  "sortOptions": [
+    { "value": "time-earliest", "text": "Time (Earliest)" },
+    { "value": "bus-name-az", "text": "Bus Name (A-Z)" },
+    { "value": "destination-az", "text": "Destination (A-Z)" }
+  ],
+  "timeWindowOptions": [
+    { "value": "all-day", "text": "All Day" },
+    { "value": "next-1-hour", "text": "Next 1 Hour" },
+    { "value": "next-2-hours", "text": "Next 2 Hours" },
+    { "value": "morning", "text": "Morning (6 AM - 12 PM)" },
+    { "value": "afternoon", "text": "Afternoon (12 PM - 5 PM)" },
+    { "value": "evening", "text": "Evening (5 PM - 9 PM)" },
+    { "value": "night", "text": "Night (9 PM - 6 AM)" }
+  ]
+}
 }
