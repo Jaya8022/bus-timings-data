@@ -270,7 +270,7 @@
     ],
     "Munnar": [
       { "time": "05:55 AM", "bus": "Alan Motors", "destination": "Munnar", "type": "Ordinary", "routeId": "route-nedumkandam-munnar" },
-      { "time": "08:45 AM", "bus": "Alphonsa", "destination": "Munnar", "type": "Ordinary", "routeId": "route-adimali-munnar" }
+      { "time": "08:50 AM", "bus": "Alphonsa", "destination": "Munnar", "type": "Ordinary", "routeId": "route-adimali-munnar" }
     ],
     "Murickassery": [
       { "time": "08:16 AM", "bus": "Ann Motors", "type": "Ordinary", "destination": "Murickassery", "routeId": "route-thankamani-murickassery" },
@@ -299,7 +299,7 @@
       { "time": "09:20 AM", "bus": "Elamchingath", "destination": "Nedumkandam", "type": "Ordinary", "routeId": "route-pambadumpara" },
       { "time": "09:45 AM", "bus": "Alphonsa", "destination": "Nedumkandam", "type": "Ordinary", "routeId": "route-pambadumpara" },
       { "time": "09:50 AM", "bus": "Kuttimalu", "destination": "Nedumkandam", "type": "Ordinary", "routeId": "route-thookkupalam-nedumkandam" },
-      { "time": "09:50 AM", "bus": "Queen Mary", "destination": "Nedumkandam", "type": "Ordinary", "routeId": "route-erattayar" },
+      { "time": "09:51 AM", "bus": "Queen Mary", "destination": "Nedumkandam", "type": "Ordinary", "routeId": "route-erattayar" },
       { "time": "10:05 AM", "bus": "Jaimatha", "destination": "Nedumkandam", "type": "Ordinary", "routeId": "route-pambadumpara-nedumkandam" },
       { "time": "10:07 AM", "bus": "Alphonsa", "destination": "Nedumkandam", "type": "Ordinary", "routeId": "route-erattayar" },
       { "time": "10:17 AM", "bus": "Evan", "destination": "Nedumkandam", "type": "Ordinary", "routeId": "route-thookkupalam-nedumkandam" },
@@ -312,7 +312,7 @@
       { "time": "11:02 AM", "bus": "Devamatha", "destination": "Nedumkandam", "type": "Ordinary", "routeId": "route-pambadumpara" },
       { "time": "11:28 AM", "bus": "Gurudev", "destination": "Nedumkandam", "type": "Ordinary", "routeId": "route-erattayar" },
       { "time": "11:35 AM", "bus": "Sera Travels", "destination": "Nedumkandam", "type": "Limited Stop", "routeId": "route-thookkupalam-nedumkandam" },
-      { "time": "11:45 AM", "bus": "Janaki", "destination": "Nedumkandam", "type": "Ordinary", "routeId": "route-thookkupalam-nedumkandam" },
+      { "time": "11:48 AM", "bus": "Janaki", "destination": "Nedumkandam", "type": "Ordinary", "routeId": "route-thookkupalam-nedumkandam" },
       { "time": "12:02 PM", "bus": "Ann Motors", "destination": "Nedumkandam", "type": "Ordinary", "routeId": "route-pambadumpara-nedumkandam" },
       { "time": "12:10 PM", "bus": "Holy Queen", "destination": "Nedumkandam", "type": "Ordinary", "routeId": "route-thookkupalam-nedumkandam" },
       { "time": "12:23 PM", "bus": "Holy Mariya", "destination": "Nedumkandam", "type": "Limited Stop", "routeId": "route-pambadumpara" },
@@ -352,7 +352,7 @@
       { "time": "09:00 PM", "bus": "Sera Travels", "destination": "Nedumkandam", "type": "Limited Stop", "routeId": "route-thookkupalam-nedumkandam" }
     ],
     "Pala": [
-      { "time": "08:10 AM", "bus": "Ammu", "destination": "Pala", "type": "Limited Stop", "routeId": "route-pala" }
+      { "time": "08:08 AM", "bus": "Ammu", "destination": "Pala", "type": "Limited Stop", "routeId": "route-pala" }
     ],
     "Pasuppara": [
       { "time": "06:45 AM", "bus": "Queen Mary", "type": "Ordinary", "destination": "Pasuppara", "routeId": "route-pasuppara" },
@@ -391,7 +391,7 @@
       { "time": "11:20 AM", "bus": "Nirmalyam", "type": "Ordinary", "destination": "Thankamani", "routeId": "route-thankamani" },
       { "time": "11:54 AM", "bus": "Jai Krishna", "type": "Ordinary", "destination": "Thankamani", "routeId": "route-thankamani" },
       { "time": "04:20 PM", "bus": "CMS", "type": "Limited Stop", "destination": "Thankamani", "routeId": "route-thankamani" },
-      { "time": "05:15 PM", "bus": "Ann Motors", "type": "Ordinary", "destination": "Thankamani", "routeId": "route-thankamani" },
+      { "time": "05:30 PM", "bus": "Ann Motors", "type": "Ordinary", "destination": "Thankamani", "routeId": "route-thankamani" },
       { "time": "06:20 PM", "bus": "Appus Travels", "type": "Limited Stop", "destination": "Thankamani", "routeId": "route-thankamani" },
       { "time": "06:35 PM", "bus": "TMS", "type": "Limited Stop", "destination": "Thankamani", "routeId": "route-kochuthovala-thankamani" },
       { "time": "07:05 PM", "bus": "Nirmalyam", "type": "Ordinary", "destination": "Thankamani", "routeId": "route-thankamani" }      
@@ -412,12 +412,14 @@
       { "time": "10:45 AM", "bus": "Jai Mary", "type": "Ordinary", "destination": "Thopramkudy", "routeId": "route-chembakappara-thopramkudy" },
       { "time": "11:10 AM", "bus": "Appus Travels", "type": "Ordinary", "destination": "Thopramkudy", "routeId": "route-chembakappara-thopramkudy" },
       { "time": "11:35 AM", "bus": "Appus Travels", "type": "Ordinary", "destination": "Thopramkudy", "routeId": "route-chembakappara-thopramkudy" },
+      { "time": "12:00 PM", "bus": "Esra", "type": "Ordinary", "destination": "Thopramkudy", "routeId": "route-chembakappara-thopramkudy" },
       { "time": "12:40 PM", "bus": "Jai Krishna", "type": "Ordinary", "destination": "Thopramkudy", "routeId": "route-chembakappara-thopramkudy" },
       { "time": "01:20 PM", "bus": "Holy Mary", "type": "Ordinary", "destination": "Thopramkudy", "routeId": "route-chembakappara-thopramkudy" },
       { "time": "01:50 PM", "bus": "Ammu", "type": "Ordinary", "destination": "Thopramkudy", "routeId": "route-chembakappara-thopramkudy" },
       { "time": "02:23 PM", "bus": "Gurudev", "type": "Ordinary", "destination": "Thopramkudy", "routeId": "route-chembakappara-thopramkudy" },
       { "time": "02:50 PM", "bus": "Appus Travels", "type": "Ordinary", "destination": "Thopramkudy", "routeId": "route-chembakappara-thopramkudy" },
       { "time": "03:57 PM", "bus": "Anna", "type": "Ordinary", "destination": "Thopramkudy", "routeId": "route-chembakappara-thopramkudy" },
+      { "time": "05:15 PM", "bus": "Gurudev", "type": "Ordinary", "destination": "Thopramkudy", "routeId": "route-chembakappara-thopramkudy" },
       { "time": "05:40 PM", "bus": "Appus Travels", "type": "Ordinary", "destination": "Thopramkudy", "routeId": "route-kochuthovala-thopramkudy" },
       { "time": "06:57 PM", "bus": "Shajee Motors", "type": "Limited Stop", "destination": "Thopramkudy", "routeId": "route-chembakappara-thopramkudy" }
     ],
