@@ -664,6 +664,7 @@
     "route-vannappuram": { "segmentIds": ["seg-kattappana-cheruthoni", "seg-cheruthoni-thadiyampadu", "seg-thadiyampadu-chelachuvadu", "seg-chelachuvadu-pazhayarikandam", "seg-pazhayarikandam-vannappuram"] }
   },
   "destinationsWithRouteFilters": [
+    "200 Acre",
     "Adimali",
     "Changanassery",
     "Chemmannar",
@@ -671,10 +672,13 @@
     "Cumbummettu",
     "Idukki",
     "Kallarkutty",
+    "Kathippara",
     "Kumily",
     "Munnar",
     "Murickassery",
     "Nedumkandam",
+    "Perumthotty",
+    "Prakash",
     "Rajakkad",
     "Thopramkudy",
     "Vagamon"
@@ -714,7 +718,7 @@
     "Chelachuvadu": { "defaultFare": "58" },
     "Chembakappara": { "defaultFare": "25" },
     "Cheruthoni": { "defaultFare": "40" },
-    "Erattayar": { "routeFares": { "Via Nathukallu": "15" } },
+    "Erattayar": { "defaultFare": "15" },
     "Idukki": { "defaultFare": "38" },
     "Kallarkutty": { "routeFares": { "Via Cheruthoni": "75" } },
     "Kalvarymount": { "defaultFare": "28" },
