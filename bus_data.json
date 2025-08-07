@@ -697,9 +697,9 @@
     { "value": "all-day", "text": "All Day" },
     { "value": "next-1-hour", "text": "Next 1 Hour" },
     { "value": "next-2-hours", "text": "Next 2 Hours" },
-    { "value": "morning", "text": "Morning (12 AM - 12 PM)" },
-    { "value": "afternoon", "text": "Afternoon (12 PM - 5 PM)" },
-    { "value": "evening", "text": "Evening (5 PM - 9 PM)" },
-    { "value": "night", "text": "Night (After 9 PM)" }
+    { "value": "morning", "text": "12 AM - 12 PM" },
+    { "value": "afternoon", "text": "12 PM - 5 PM" },
+    { "value": "evening", "text": "5 PM - 9 PM" },
+    { "value": "night", "text": "After 9 PM" }
   ]
 }
