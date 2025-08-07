@@ -701,5 +701,28 @@
     { "value": "afternoon", "text": "12 PM - 5 PM" },
     { "value": "evening", "text": "5 PM - 9 PM" },
     { "value": "night", "text": "After 9 PM" }
-  ]
+  ],
+  "fareDetails": {
+    "Upputhara": {
+      "defaultFare": "₹33"
+    },
+    "Kumily": {
+      "defaultFare": "₹50",
+      "routeFares": {
+        "Via Anakkara": "₹50",
+        "Via Aanavilasam": "₹48"
+      }
+    },
+    "Nedumkandam": {
+      "defaultFare": "₹33"
+    },
+    "Kottayam": {
+      "defaultFare": "₹140"
+    },
+    "Adimali": {
+      "defaultFare": "₹88",
+      "routeFares": {
+        "Via Cheruthoni": "₹88"
+      }
+    }
 }
