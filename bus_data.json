@@ -366,12 +366,14 @@
       { "time": "05:00 PM", "bus": "CMS", "destination": "Perinjamkutty", "type": "Limited Stop", "routeId": "route-perinjamkutty" },
       { "time": "06:30 PM", "bus": "Ammu", "destination": "Perinjamkutty", "type": "Limited Stop", "routeId": "route-perinjamkutty" }
     ],
+    "Plamoodu": [
+      { "time": "11:55 AM", "bus": "Elamchingath", "type": "Ordinary", "destination": "Plamoodu", "routeId": "route-plamoodu" }
+    ],
     "Ponkunnam": [
       { "time": "01:19 PM", "bus": "St.George", "destination": "Ponkunnam", "type": "Limited Stop", "routeId": "route-ponkunnam" }
     ],
     "Pulingatta": [
       { "time": "09:35 AM", "bus": "Blessymol", "type": "Ordinary", "destination": "Pulingatta", "routeId": "route-pulingatta" },
-      { "time": "11:55 AM", "bus": "Elamchingath", "type": "Ordinary", "destination": "Pulingatta", "routeId": "route-pulingatta" },
       { "time": "01:55 PM", "bus": "Blessymol", "type": "Ordinary", "destination": "Pulingatta", "routeId": "route-pulingatta" }
     ],
     "Punnapara": [
@@ -462,6 +464,7 @@
       { "time": "07:40 AM", "bus": "Alphonsa", "type": "Ordinary", "destination": "Vazhavara", "routeId": "route-vazhavara" }
     ],
     "Vyttila Hub": [
+      { "time": "01:00 AM", "bus": "Cochin", "destination": "Vyttila Hub", "type": "Limited Stop", "routeId": "route-aluva-ekmsouth-vyttila" },
       { "time": "05:00 AM", "bus": "EBT", "destination": "Vyttila Hub", "type": "Limited Stop", "routeId": "route-mccollege-vyttila" },
       { "time": "07:35 AM", "bus": "Pournami", "destination": "Vyttila Hub", "type": "Limited Stop", "routeId": "route-pktpdy-vyttila" },
       { "time": "10:55 AM", "bus": "Cochin", "destination": "Vyttila Hub", "type": "Limited Stop", "routeId": "route-thankamani-vyttila" },
@@ -519,11 +522,10 @@
     "seg-upputhara-pasuppara": ["Upputhara", "Lonetree", "Puthukkada", "Kattadikavala"],
     "seg-upputhara-valacode": ["Upputhara", "Mattuthavalam", "Mathaippara", "Valacode"],
     "seg-valacode-kannampady": ["Kothapara", "Kizhukanam"],
-    "seg-valacode-kottamala": ["Kumarikulam", "Kuvalettam"],
+    "seg-valacode-kuvalettam-common": ["Kumarikulam", "Kuvalettam"],
     "seg-valacode-kuvalettam": ["Kumarikulam"],
-    "seg-valacode-pulingatta": ["Kumarikulam", "Kuvalettam"],
-    "seg-valacode-7thnumber": ["Kumarikulam", "Kuvalettam", "Pulingatta"],
-    "seg-valacode-vagamon": ["Kumarikulam", "Kuvalettam", "Pulingatta", "7th Number", "Meenmutty", "Puthulayam"],
+    "seg-valacode-pulingatta-common": ["Kumarikulam", "Kuvalettam", "Pulingatta"],
+    "seg-pulingatta-vagamon": ["7th Number", "Meenmutty", "Puthulayam"],
     "seg-kannampady-punnapara": ["Kannampady"],
     "seg-erattayar-santhigram": ["Santhigram"],
     "seg-santhigram-thankamani": ["Nalumukku", "Parakkadavu", "Kamakshi", "Thankamani"],
@@ -597,9 +599,9 @@
     "route-kainady": { "segmentIds": ["seg-kattappana-parappu", "seg-parappu-chappathu", "seg-chappathu-elappara", "seg-elappara-ponkunnam", "seg-ponkunnam-14thmile", "seg-14thmile-pambady", "seg-pambady-kainady"] },
     "route-ettumanoor": { "filterName": "Via Thankamani", "i18nKey": "viaThankamani", "segmentIds": ["seg-kattappana-erattayar", "seg-erattayar-santhigram", "seg-santhigram-thankamani", "seg-thankamani-idukki", "seg-idukki-cheruthoni", "seg-cheruthoni-thodupuzha", "seg-thodupuzha-ettumanoor"] },
     "route-pala": { "segmentIds": ["seg-kattappana-cheruthoni", "seg-cheruthoni-thodupuzha", "seg-thodupuzha-pala"] },
-    "route-vagamon": { "filterName": "Via Upputhara", "i18nKey": "viaUpputhara", "segmentIds": ["seg-kattappana-parappu", "seg-upputhara-valacode", "seg-valacode-vagamon"] },
-    "route-7thnumber": { "segmentIds": ["seg-kattappana-parappu", "seg-upputhara-valacode", "seg-valacode-7thnumber"] },
-    "route-pulingatta": { "segmentIds": ["seg-kattappana-parappu", "seg-upputhara-valacode", "seg-valacode-pulingatta"] },
+    "route-vagamon": { "filterName": "Via Upputhara", "i18nKey": "viaUpputhara", "segmentIds": ["seg-kattappana-parappu", "seg-upputhara-valacode", "seg-valacode-pulingatta-common", "seg-pulingatta-vagamon"] },
+    "route-7thnumber": { "segmentIds": ["seg-kattappana-parappu", "seg-upputhara-valacode", "seg-valacode-pulingatta-common"] },
+    "route-pulingatta": { "segmentIds": ["seg-kattappana-parappu", "seg-upputhara-valacode", "seg-valacode-kuvalettam-common"] },
     "route-kuvalettam": { "segmentIds": ["seg-kattappana-parappu", "seg-upputhara-valacode", "seg-valacode-kuvalettam"] },
     "route-ezhukumvayal": { "segmentIds": ["seg-kattappana-erattayar", "seg-erattayar-valiyathovala", "seg-valiyathovala-anchumukku", "seg-anchumukku-ezhukumvayal"] },
     "route-idinjamala": { "segmentIds": ["seg-kattappana-erattayar", "seg-erattayar-santhigram"] }, 
@@ -657,7 +659,7 @@
     "route-valacode": { "segmentIds": ["seg-kattappana-parappu", "seg-upputhara-valacode"] },
     "route-kannampady": { "segmentIds": ["seg-kattappana-parappu", "seg-upputhara-valacode", "seg-valacode-kannampady"] },
     "route-punnapara": { "segmentIds": ["seg-kattappana-parappu", "seg-upputhara-valacode", "seg-valacode-kannampady", "seg-kannampady-punnapara"] },
-    "route-kottamala": { "segmentIds": ["seg-kattappana-parappu", "seg-upputhara-valacode", "seg-valacode-kottamala"] },
+    "route-kottamala": { "segmentIds": ["seg-kattappana-parappu", "seg-upputhara-valacode", "seg-valacode-kuvalettam-common"] },
     "route-pasuppara": { "segmentIds": ["seg-kattappana-parappu", "seg-upputhara-pasuppara"] },
     "route-vannappuram": { "segmentIds": ["seg-kattappana-cheruthoni", "seg-cheruthoni-thadiyampadu", "seg-thadiyampadu-chelachuvadu", "seg-chelachuvadu-pazhayarikandam", "seg-pazhayarikandam-vannappuram"] }
   },
