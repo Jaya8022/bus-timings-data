@@ -355,7 +355,7 @@
       { "time": "08:08 AM", "bus": "Ammu", "destination": "Pala", "type": "Limited Stop", "routeId": "route-pala" }
     ],
     "Pasuppara": [
-      { "time": "06:45 AM", "bus": "Queen Mary", "type": "Ordinary", "destination": "Pasuppara", "routeId": "route-pasuppara" },
+      { "time": "06:40 AM", "bus": "Queen Mary", "type": "Ordinary", "destination": "Pasuppara", "routeId": "route-pasuppara" },
       { "time": "12:20 PM", "bus": "Queen Mary", "type": "Ordinary", "destination": "Pasuppara", "routeId": "route-pasuppara" }
     ],
     "Pazhayarikandam": [
@@ -682,11 +682,11 @@
     "Vyttila Hub",
     "Kottayam",
     "Changanassery",
-    "Kumily",
-    "Adimali",
-    "Nedumkandam",
     "Thodupuzha",
-    "Munnar"
+    "Munnar",
+    "Kumily",
+    "Nedumkandam",
+    "Adimali"
   ],
   "sortOptions": [
     { "value": "time-earliest", "text": "Time (Earliest)" },
