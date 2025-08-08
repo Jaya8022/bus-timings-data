@@ -709,9 +709,19 @@
     { "value": "night", "text": "Night" }
   ],
   "fareDetails": {
+    "route-adimali": { "Kattappana": "0", "Nirmalacity": "18", "8th Mile": "23", "Kalvarymount": "28", "Idukki": "38", "Cheruthoni": "40", "Thadiyampadu": "48", "Karimban": "50", "Chelachuvadu": "58", "Keerithodu": "63", "Panamkutty": "70", "Kallarkutty": "75", "Kathippara": "78", "200 Acre": "83", "Adimali": "88" },
     "route-anakkara": { "Kattappana": "0", "Puliyanmala": "15", "Amayar": "20", "Vandanmedu": "23", "Vellimala": "25", "Puttady": "28", "Kadassikkadavu": "30", "Anakkara": "35", "6th Mile": "38", "1st Mile": "48", "Kumily": "50" },
     "route-anchumukku": { "Kattappana": "0", "Vettikuzhakavala": "10", "Nathukallu": "13", "Erattayar": "15", "Valiyathovala": "18", "Anchumukku": "20", "Kavunthy": "23", "Chembalam": "25", "Kallar": "28", "Nedumkandam": "30" },
+    "route-chembakappara-thopramkudy": { "Kattappana": "0", "Vettikuzhakavala": "10", "Nathukallu": "13", "Erattayar": "15", "Santhigram": "18", "Erattayar North": "20", "Karadiyallu": "23", "Chembakappara": "25", "Kochukamakshi": "28", "Pushpagiri": "30", "Udayagiri": "33", "Prakash": "35", "Perumthotty": "38", "Thopramkudy": "40" },
+    "route-cheruthoni": { "Kattappana": "0", "Nirmalacity": "18", "8th Mile": "23", "Kalvarymount": "28", "Idukki": "38", "Cheruthoni": "40" },
+    "route-erattayar": { "Kattappana": "0", "Vettikuzhakavala": "10", "Nathukallu": "13", "Erattayar": "15", "Valiyathovala": "18", "Anchumukku": "20", "Ezhukumvayal": "23", "Kavunthy": "25", "Chembalam": "28", "Kallar": "30", "Nedumkandam": "33" },
+    "route-kottamala": { "Kattappana": "0", "Nariyampara": "13", "Kanchiyar": "15", "Labbakkada": "18", "Swaraj": "20", "Mattukkatta": "25", "Marykulam": "28", "Parappu": "30", "Upputhara": "33", "Mattuthavalam": "40", "Mathaippara": "43", "Valacode": "45", "Kumarikulam": "48", "Kuvalettam": "50", "Kottamala": "63" },
+    "route-kuvalettam": { "Kattappana": "0", "Nariyampara": "13", "Kanchiyar": "15", "Labbakkada": "18", "Swaraj": "20", "Mattukkatta": "25", "Marykulam": "28", "Parappu": "30", "Upputhara": "33", "Mattuthavalam": "40", "Mathaippara": "43", "Valacode": "45", "Kumarikulam": "48", "Kuvalettam": "50" },
+    "route-kuzhitholu-cumbummettu": { "Kattappana": "0", "Puliyanmala": "15", "Amayar": "23", "Chettukuzhy": "25", "Pothinkandam": "30", "Kuzhitholu": "33", "Cumbummettu": "38" },
+    "route-maniyarankudy": { "Kattappana": "0", "Nirmalacity": "18", "8th Mile": "23", "Kalvarymount": "28", "Idukki": "38", "Cheruthoni": "40", "Thadiyampadu": "48", "Pallitazham": "35", "Maniyarankudy": "58" },
     "route-meppara": { "Kattappana": "0", "Nariyampara": "13", "School Kavala": "15", "Swarnavilasam": "18", "Meppara": "23" },
+    "route-pambadumpara": { "Kattappana": "0", "Puliyanmala": "15", "Pambadumpara": "23", "Vattappara": "25", "Chembalam": "28", "Kallar": "30", "Nedumkandam": "33" },
+    "route-thookkupalam-nedumkandam": { "Kattappana": "0", "Puliyanmala": "15", "Sanyasiyoda": "23", "Balagram": "25", "Thookkupalam": "28", "Mundiyeruma": "30", "Nedumkandam": "35" },
     "route-upputhara": { "Kattappana": "0", "Nariyampara": "13", "Kanchiyar": "15", "Labbakkada": "18", "Swaraj": "20", "Mattukkatta": "25", "Marykulam": "28", "Parappu": "30", "Upputhara": "33" },
     "route-valacode": { "Kattappana": "0", "Nariyampara": "13", "Kanchiyar": "15", "Labbakkada": "18", "Swaraj": "20", "Mattukkatta": "25", "Marykulam": "28", "Parappu": "30", "Upputhara": "33", "Mattuthavalam": "40", "Mathaippara": "43", "Valacode": "45" }
   }
