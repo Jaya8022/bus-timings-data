@@ -708,16 +708,22 @@
     { "value": "evening", "text": "Evening" },
     { "value": "night", "text": "Night" }
   ],
-  "faresByStop": {
-    "Upputhara": "₹33",
-    "Nedumkandam": "₹33",
-    "Kottayam": "₹140",
-    "Anakkara": "₹45",
-    "Vandiperiyar": "₹40",
-    "Cheruthoni": "₹55"
-  },
-  "routeSpecificFares": {
-    "Kumily": { "route-anakkara": "₹50", "route-aanavilasam": "₹48" },
-    "Adimali": { "route-adimali": "₹88" } 
+  "fareDetails": {
+    "route-anchumukku": {
+        "Kattappana": "₹0",
+        "Erattayar": "₹15",
+        "Valiyathovala": "₹18",
+        "Anchumukku": "₹20",
+        "Kavunthy": "₹23",
+        "Chembalam": "₹25",
+        "Kallar": "₹28",
+        "Nedumkandam": "₹30"
+    },
+    "route-swarnavilasam": {
+        "Kattappana": "₹0",
+        "Nariyampara": "₹13",
+        "School Kavala": "₹15",
+        "Swarnavilasam": "₹18",
+        "Meppara": "₹23"
+    }
   }
-}
