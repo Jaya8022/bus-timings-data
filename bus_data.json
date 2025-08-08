@@ -508,7 +508,7 @@
     "seg-thadiyampadu-maniyarankudy": ["Pallitazham"],
     "seg-thadiyampadu-chelachuvadu": ["Karimban", "Chelachuvadu"],          
     "seg-chelachuvadu-panamkutty": ["Keerithodu", "Panamkutty"],
-    "seg-kallarkutty-adimali": ["Kallarkutty", "Kathippara", "200 Acre", "Millumpady"],
+    "seg-kallarkutty-adimali": ["Kallarkutty", "Kathippara", "1000 Acre", "200 Acre", "Polinjapalam"],
     "seg-adimali-anachal": ["Adimali", "Iruttukanam", "Thokkupara"],
     "seg-santhipalam-vellaramkunnu": ["Santhipalam", "Chenkara", "Vellaramkunnu"],
     "seg-kattappana-erattayar": ["Vettikuzhakavala", "Nathukallu", "Erattayar"],
@@ -665,6 +665,7 @@
   },
   "destinationsWithRouteFilters": [
     "200 Acre",
+    "1000 Acre",
     "Adimali",
     "Changanassery",
     "Chemmannar",
@@ -709,7 +710,7 @@
     { "value": "night", "text": "Night" }
   ],
   "fareDetails": {
-    "route-adimali": { "Kattappana": "0", "Nirmalacity": "18", "8th Mile": "23", "Kalvarymount": "28", "Idukki": "38", "Cheruthoni": "40", "Thadiyampadu": "48", "Karimban": "50", "Chelachuvadu": "58", "Keerithodu": "63", "Panamkutty": "70", "Kallarkutty": "75", "Kathippara": "78", "200 Acre": "83", "Adimali": "88" },
+    "route-adimali": { "Kattappana": "0", "Nirmalacity": "18", "8th Mile": "23", "Kalvarymount": "28", "Idukki": "38", "Cheruthoni": "40", "Thadiyampadu": "48", "Karimban": "50", "Chelachuvadu": "58", "Keerithodu": "63", "Panamkutty": "70", "Kallarkutty": "75", "Kathippara": "78", "1000 Acre": "80", "200 Acre": "83", "Polinjapalam": "85", "Adimali": "88" },
     "route-anakkara": { "Kattappana": "0", "Puliyanmala": "15", "Amayar": "20", "Vandanmedu": "23", "Vellimala": "25", "Puttady": "28", "Kadassikkadavu": "30", "Anakkara": "35", "6th Mile": "38", "1st Mile": "48", "Kumily": "50" },
     "route-anchumukku": { "Kattappana": "0", "Vettikuzhakavala": "10", "Nathukallu": "13", "Erattayar": "15", "Valiyathovala": "18", "Anchumukku": "20", "Kavunthy": "23", "Chembalam": "25", "Kallar": "28", "Nedumkandam": "30" },
     "route-chembakappara-thopramkudy": { "Kattappana": "0", "Vettikuzhakavala": "10", "Nathukallu": "13", "Erattayar": "15", "Santhigram": "18", "Erattayar North": "20", "Karadiyallu": "23", "Chembakappara": "25", "Kochukamakshi": "28", "Pushpagiri": "30", "Udayagiri": "33", "Prakash": "35", "Perumthotty": "38", "Thopramkudy": "40" },
