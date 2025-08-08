@@ -709,7 +709,10 @@
     { "value": "night", "text": "Night" }
   ],
   "fareDetails": {
+    "route-anakkara": { "Kattappana": "0", "Puliyanmala": "15", "Amayar": "20", "Vandanmedu": "23", "Vellimala": "25", "Puttady": "28", "Kadassikkadavu": "30", "Anakkara": "35", "6th Mile": "38", "1st Mile": "48", "Kumily": "50" },
     "route-anchumukku": { "Kattappana": "0", "Vettikuzhakavala": "10", "Nathukallu": "13", "Erattayar": "15", "Valiyathovala": "18", "Anchumukku": "20", "Kavunthy": "23", "Chembalam": "25", "Kallar": "28", "Nedumkandam": "30" },
-    "route-meppara": { "Kattappana": "0", "Nariyampara": "13", "School Kavala": "15", "Swarnavilasam": "18", "Meppara": "23" }
+    "route-meppara": { "Kattappana": "0", "Nariyampara": "13", "School Kavala": "15", "Swarnavilasam": "18", "Meppara": "23" },
+    "route-upputhara": { "Kattappana": "0", "Nariyampara": "13", "Kanchiyar": "15", "Labbakkada": "18", "Swaraj": "20", "Mattukkatta": "25", "Marykulam": "28", "Parappu": "30", "Upputhara": "33" },
+    "route-valacode": { "Kattappana": "0", "Nariyampara": "13", "Kanchiyar": "15", "Labbakkada": "18", "Swaraj": "20", "Mattukkatta": "25", "Marykulam": "28", "Parappu": "30", "Upputhara": "33", "Mattuthavalam": "40", "Mathaippara": "43", "Valacode": "45" }
   }
 }
