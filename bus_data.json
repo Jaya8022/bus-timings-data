@@ -550,7 +550,7 @@
     "seg-kattappana-uppukandam-valiyathovala": ["Kochuthovala", "Uppukandam", "Valiyathovala"],
     "seg-valiyathovala-anchumukku": ["Anchumukku"],
     "seg-anchumukku-ezhukumvayal": ["Ezhukumvayal"],
-    "seg-kavunthy": ["Kavunthy", "Illippalam"],
+    "seg-kavunthy": ["Kavunthy"],
     "seg-chembalam": ["Chembalam", "Kallar"],
     "seg-kattappana-puliyanmala": ["Puliyanmala"],
     "seg-puliyanmala-nedumkandam": ["Pambadumpara", "Vattappara", "Chembalam", "Kallar"],
@@ -709,7 +709,7 @@
     { "value": "night", "text": "Night" }
   ],
   "fareDetails": {
-    "route-anchumukku": { "Kattappana": "₹0", "Erattayar": "₹15", "Valiyathovala": "₹18", "Anchumukku": "₹20", "Kavunthy": "₹23", "Chembalam": "₹25", "Kallar": "₹28", "Nedumkandam": "₹30" },
-    "route-swarnavilasam": { "Kattappana": "₹0", "Nariyampara": "₹13", "School Kavala": "₹15", "Swarnavilasam": "₹18", "Meppara": "₹23" }
+    "route-anchumukku": { "Kattappana": "0", "Vettikuzhakavala": "10", "Nathukallu": "13", "Erattayar": "15", "Valiyathovala": "18", "Anchumukku": "20", "Kavunthy": "23", "Chembalam": "25", "Kallar": "28", "Nedumkandam": "30" },
+    "route-meppara": { "Kattappana": "0", "Nariyampara": "13", "School Kavala": "15", "Swarnavilasam": "18", "Meppara": "23" }
   }
 }
