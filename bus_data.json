@@ -545,7 +545,7 @@
     "seg-vettikkamattam-puthenpalam": ["Puthenpalam"],
     "seg-ezhukumvayal-puthenpalam": ["Puthenpalam"],
     "seg-vettikkamattam-prakash": ["Karadiyallu", "Chembakappara", "Kochukamakshi", "Pushpagiri", "Udayagiri", "Prakash"],
-    "seg-puthenpalam-melechinnar": ["Eattithoppu", "Kallarmukku", "Melechinnar"],
+    "seg-puthenpalam-melechinnar": ["Eattakkanam", "Eattithoppu", "Kallarmukku", "Melechinnar"],
     "seg-erattayar-valiyathovala": ["Valiyathovala"],
     "seg-kattappana-uppukandam-valiyathovala": ["Kochuthovala", "Uppukandam", "Valiyathovala"],
     "seg-valiyathovala-anchumukku": ["Anchumukku"],
@@ -577,7 +577,7 @@
     "seg-melechinnar-perinjamkutty": ["Bethel", "Perinjamkutty"],
     "seg-perinjamkutty-murickassery": ["Senapathy"],
     "seg-perinjamkutty-panickankudy": ["Mullarikudy", "Panickankudy"],
-    "seg-panickankudy-kallarkutty": ["Kambilikandam", "5th Mile", "Inchapathal"],
+    "seg-panickankudy-kallarkutty": ["Parathode", "Kambilikandam", "Mukkudam", "Inchapathal"],
     "seg-panickankudy-rajakkad": ["Muniyara", "Karimala", "Vattakkannippara", "Kuthumkal", "Pazhayaviduthy", "Rajakkad"]
   },
   "routes": {
@@ -715,6 +715,7 @@
     "route-anchumukku": { "Kattappana": "0", "Vettikuzhakavala": "10", "Nathukallu": "13", "Erattayar": "15", "Valiyathovala": "18", "Anchumukku": "20", "Kavunthy": "23", "Chembalam": "25", "Kallar": "28", "Nedumkandam": "30" },
     "route-chembakappara-thopramkudy": { "Kattappana": "0", "Vettikuzhakavala": "10", "Nathukallu": "13", "Erattayar": "15", "Santhigram": "18", "Erattayar North": "20", "Karadiyallu": "23", "Chembakappara": "25", "Kochukamakshi": "28", "Pushpagiri": "30", "Udayagiri": "33", "Prakash": "35", "Perumthotty": "38", "Thopramkudy": "40" },
     "route-cheruthoni": { "Kattappana": "0", "Nirmalacity": "18", "8th Mile": "23", "Kalvarymount": "28", "Idukki": "38", "Cheruthoni": "40" },
+    "route-chinnar-adimali": { "Kattappana": "0", "Vettikuzhakavala": "10", "Nathukallu": "13", "Erattayar": "15", "Vettikkamattam": "20", "Puthenpalam": "23", "Eattakkanam": "25", "Eattithoppu": "28", "Kallarmukku": "30", "Melechinnar": "35", "Bethel": "38", "Perinjamkutty": "40", "Mullarikkudy": "45", "Panickankudy": "53", "Parathode": "58", "Kambilikandam": "60", "Mukkudam": "63", "Inchapathal": "68", "Kathippara": "70", "1000 Acre": "73", "200 Acre": "75", "Polinjapalam": "78", "Adimali": "80" },
     "route-erattayar": { "Kattappana": "0", "Vettikuzhakavala": "10", "Nathukallu": "13", "Erattayar": "15", "Valiyathovala": "18", "Anchumukku": "20", "Ezhukumvayal": "23", "Kavunthy": "25", "Chembalam": "28", "Kallar": "30", "Nedumkandam": "33" },
     "route-kottamala": { "Kattappana": "0", "Nariyampara": "13", "Kanchiyar": "15", "Labbakkada": "18", "Swaraj": "20", "Mattukkatta": "25", "Marykulam": "28", "Parappu": "30", "Upputhara": "33", "Mattuthavalam": "40", "Mathaippara": "43", "Valacode": "45", "Kumarikulam": "48", "Kuvalettam": "50", "Kottamala": "63" },
     "route-kuvalettam": { "Kattappana": "0", "Nariyampara": "13", "Kanchiyar": "15", "Labbakkada": "18", "Swaraj": "20", "Mattukkatta": "25", "Marykulam": "28", "Parappu": "30", "Upputhara": "33", "Mattuthavalam": "40", "Mathaippara": "43", "Valacode": "45", "Kumarikulam": "48", "Kuvalettam": "50" },
