@@ -148,7 +148,7 @@
     ],
     "Kozhimala": [
       { "time": "07:17 AM", "bus": "Appus Travels", "type": "Ordinary", "destination": "Kozhimala", "routeId": "route-kozhimala" },
-      { "time": "07:40 AM", "bus": "Thejus", "type": "Ordinary", "destination": "Kozhimala", "routeId": "route-kozhimala" },
+      { "time": "07:45 AM", "bus": "Thejus", "type": "Ordinary", "destination": "Kozhimala", "routeId": "route-kozhimala" },
       { "time": "08:35 AM", "bus": "Vettikalayil", "type": "Ordinary", "destination": "Kozhimala", "routeId": "route-kozhimala" },
       { "time": "09:15 AM", "bus": "Appus Travels", "type": "Ordinary", "destination": "Kozhimala", "routeId": "route-kozhimala" },
       { "time": "11:25 AM", "bus": "Jai Krishna", "type": "Ordinary", "destination": "Kozhimala", "routeId": "route-kozhimala" },
@@ -164,7 +164,7 @@
       { "time": "07:28 PM", "bus": "Jai Mary", "type": "Ordinary", "destination": "Kozhimala", "routeId": "route-kozhimala" }
     ],
     "Kumily": [
-      { "time": "12:25 AM", "bus": "Cochin", "destination": "Kumily", "type": "Limited Stop", "routeId": "route-anakkara" },
+      { "time": "12:27 AM", "bus": "Cochin", "destination": "Kumily", "type": "Limited Stop", "routeId": "route-anakkara" },
       { "time": "06:00 AM", "bus": "Evan", "destination": "Kumily", "type": "Ordinary", "routeId": "route-anakkara" },
       { "time": "06:20 AM", "bus": "KMS", "destination": "Kumily", "type": "Ordinary", "routeId": "route-anakkara" },
       { "time": "06:53 AM", "bus": "Sarathy Travels", "destination": "Kumily", "type": "Ordinary", "routeId": "route-anakkara" },
